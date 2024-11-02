@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/helipatel/Documents/END-to-End%20ML%20Project/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/f48e57bb2cd84352989b3cbb6c685f24/artifacts
+end_time: 1730492516520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f48e57bb2cd84352989b3cbb6c685f24
+run_name: dazzling-perch-513
+run_uuid: f48e57bb2cd84352989b3cbb6c685f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730492513176
+status: 4
+tags: []
+user_id: helipatel
